@@ -79,6 +79,7 @@
       skipPosition: 3,
       skipReasons: [
       ["theme", "This song does not fit the room theme. "],
+      ["meme", "This song is a meme. "],
       ["op", "This song is on the OP list. "],
       ["history", "This song is in the history. "],
       ["mix", "You played a mix, which is against the rules. "],
